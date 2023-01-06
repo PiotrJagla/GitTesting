@@ -1,0 +1,15 @@
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\bin\Debug\net6.0\Polecenia.exe
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\bin\Debug\net6.0\Polecenia.deps.json
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\bin\Debug\net6.0\Polecenia.runtimeconfig.json
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\bin\Debug\net6.0\Polecenia.dll
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\bin\Debug\net6.0\Polecenia.pdb
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.csproj.AssemblyReference.cache
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.AssemblyInfoInputs.cache
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.AssemblyInfo.cs
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.dll
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\refint\Polecenia.dll
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.pdb
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\Polecenia.genruntimeconfig.cache
+D:\Program Files (x86)\GitHub\GitTesting\WierzPolecen\obj\Debug\net6.0\ref\Polecenia.dll

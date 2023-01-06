@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\WierzPolecen.csproj",
-      "projectName": "WierzPolecen",
-      "projectPath": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\WierzPolecen.csproj",
+      "projectUniqueName": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\Polecenia.csproj",
+      "projectName": "Polecenia",
+      "projectPath": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\Polecenia.csproj",
       "packagesPath": "C:\\Users\\piotr\\.nuget\\packages\\",
       "outputPath": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\obj\\",
       "projectStyle": "PackageReference",
