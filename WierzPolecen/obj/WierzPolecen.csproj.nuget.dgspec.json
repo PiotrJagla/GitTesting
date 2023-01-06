@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudioProjects\\CS\\Git Testing\\WierzPolecen\\WierzPolecen.csproj": {}
+    "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\WierzPolecen.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudioProjects\\CS\\Git Testing\\WierzPolecen\\WierzPolecen.csproj": {
+    "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\WierzPolecen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioProjects\\CS\\Git Testing\\WierzPolecen\\WierzPolecen.csproj",
+        "projectUniqueName": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\WierzPolecen.csproj",
         "projectName": "WierzPolecen",
-        "projectPath": "D:\\VisualStudioProjects\\CS\\Git Testing\\WierzPolecen\\WierzPolecen.csproj",
+        "projectPath": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\WierzPolecen.csproj",
         "packagesPath": "C:\\Users\\piotr\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioProjects\\CS\\Git Testing\\WierzPolecen\\obj\\",
+        "outputPath": "D:\\Program Files (x86)\\GitHub\\GitTesting\\WierzPolecen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\piotr\\AppData\\Roaming\\NuGet\\NuGet.Config",
