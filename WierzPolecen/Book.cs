@@ -9,19 +9,13 @@ namespace Polecenia
     public class Book
     {
         int number;
-<<<<<<< HEAD
         public string Title { get; set; }
-=======
->>>>>>> master
 
         public Book()
         {
             number = -1;
-<<<<<<< HEAD
             Title = "zodyn";
 
-=======
->>>>>>> master
         }
     }
 }
