@@ -17,5 +17,10 @@ namespace Polecenia
             Title = "zodyn";
 
         }
+
+        public void gsgadsf()
+        {
+            Console.WriteLine("Tego powinno nie bys");
+        }
     }
 }
