@@ -16,5 +16,12 @@ haaaaayegeeeeen
 
 1.there are unit tests
 
+<<<<<<< HEAD
 above master
 This is first master commit
+=======
+
+This is first master commit
+
+new changes
+>>>>>>> a31f010 (chenges made to test)
